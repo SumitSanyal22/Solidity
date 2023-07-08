@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "money",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"overflow.sol": "local"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"overflow.sol": {
+			"keccak256": "0xf9ccd2b4151580b1e944ee0b87519884bde1405a4f96d90aec6761c6dace0ba9",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://3d4f8f811044b6dbe10cd4b2fa481ddbbbb2e493bf94141f77e05ad8bc05360a",
+				"dweb:/ipfs/QmT4CyC89T4qCavjbAAtFDEuU9fbMAu8svMP3yFvEiiMj7"
+			]
+		}
+	},
+	"version": 1
+}
